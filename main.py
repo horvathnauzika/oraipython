@@ -1,0 +1,11 @@
+import feladatok
+# feladatok.egyesfeladat()
+# feladatok.kettesfeladat()
+# feladatok.harmadikfeladat()
+# feladatok.negyedikfeladat()
+# feladatok.otodikfeladat()
+# feladatok.hatodikfeladat()
+# feladatok.hetedikfeladat()
+# feladatok.nyolcadikfeladat()
+# feladatok.kilencedikfeladat()
+feladatok.tizedikfeladat()
